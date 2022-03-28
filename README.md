@@ -1,6 +1,7 @@
 SİTE'yi  NETLIFY ile DEPLOY ettik. Linki aşağı bırakıyorum gençler 😊
 URL: https://dynamic-pavlova-cbe1c0.netlify.app/
 
+Bu da Github linki: https://fizyomustafa.github.io/language-cards/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
