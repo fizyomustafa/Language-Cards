@@ -1,4 +1,5 @@
-SİTE'yi  NETLIFY ile DEPLOY ettik. URL: https://dynamic-pavlova-cbe1c0.netlify.app/
+SİTE'yi  NETLIFY ile DEPLOY ettik. Linki aşağı bırakıyorum gençler 😊
+URL: https://dynamic-pavlova-cbe1c0.netlify.app/
 
 # Getting Started with Create React App
 
